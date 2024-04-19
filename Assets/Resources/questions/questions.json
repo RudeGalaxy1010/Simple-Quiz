@@ -1,0 +1,42 @@
+{"questions":[
+  {
+    "question": "Какая страна самая большая в мире?",
+    "answers": [
+      {"text": "Россия", "correct": true},
+      {"text": "США", "correct": false},
+      {"text": "Китай", "correct": false},
+      {"text": "Канада", "correct": false}
+    ],
+    "background": "backgrounds/russia"
+  },
+  {
+    "question": "Какой металл самый тяжелый?",
+    "answers": [
+      {"text": "Золото", "correct": false},
+      {"text": "Платина", "correct": false},
+      {"text": "Олово", "correct": false},
+      {"text": "Осмий", "correct": true}
+    ],
+    "background": "backgrounds/osmium"
+  },
+  {
+    "question": "Какие из этих космических тел являются планетами?",
+    "answers": [
+      {"text": "Солнце", "correct": false},
+      {"text": "Земля", "correct": true},
+      {"text": "Деймос", "correct": false},
+      {"text": "Луна", "correct": false},
+	  {"text": "Меркурий", "correct": true}
+    ],
+    "background": "backgrounds/planets"
+  },
+  {
+    "question": "В каком году было отменено крепостное право в России?",
+    "answers": [
+      {"text": "1810", "correct": false},
+      {"text": "1921", "correct": false},
+      {"text": "1861", "correct": true}
+    ],
+    "background": "backgrounds/planets"
+  }
+]}
